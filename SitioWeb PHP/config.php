@@ -7,5 +7,5 @@ define('user','root');
 //Password
 define('password','');
 //Base de datos a utilizar
-define('db','bdmega2');
+define('db','');
 ?>
